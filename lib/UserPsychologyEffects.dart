@@ -15,6 +15,7 @@ class _PsychologyEffectState extends State<PsychologyEffect> {
   List<String> tags2 = [];
   List<String> tags3 = [];
   List<String> tags4 = [];
+  
   List<String> options1 = [
     'SleepProblem',
     'LossOfAppitite',
@@ -38,13 +39,7 @@ class _PsychologyEffectState extends State<PsychologyEffect> {
     'MoodSwing'
   ];
 
-// //   // ignore: unused_field
 
-// // var data = ["Sleep Problem", "Loss of Appitite", "Weight loss or Weight Gain","Focus Problem","Angry Problem",
-// // "Constant Worry","Loneliness Or Isolation","Feeling Over Whelmed","Unhappiness","No Joy","Sucidal Thoughts",
-// // "Feeling Sad or Down","SexDriveChange","MoodSwing"];
-
-// // var selected=[];
 
   @override
 Widget build(BuildContext context) {

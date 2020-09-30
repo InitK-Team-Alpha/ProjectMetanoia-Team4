@@ -215,8 +215,6 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mobile_app/screen.dart';
-//import 'package:Metanoia_Mobile_App/Effect.dart';
 
 import 'UserPsychologyEffects.dart';
 
